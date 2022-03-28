@@ -2,6 +2,12 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+      "@volante/slottrak-ui": [
+        "dist/volante/slottrak-ui/volante-slottrak-ui",
+        "dist/volante/slottrak-ui"
+      ]
+    },
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
