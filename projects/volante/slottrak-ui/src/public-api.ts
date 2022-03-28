@@ -3,3 +3,4 @@
  */
 
 export * from './lib/slottrak-ui.module';
+export * from './lib/menu/menu.component';
