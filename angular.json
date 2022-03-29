@@ -93,7 +93,8 @@
               "projects/volante/slottrak-app-san-manuel/src/assets"
             ],
             "styles": [
-              "projects/volante/slottrak-app-san-manuel/src/styles.sass"
+              "projects/volante/slottrak-app-san-manuel/src/styles.sass",
+              "node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css"
             ],
             "scripts": []
           },
@@ -200,5 +201,5 @@
       }
     }
   },
-  "defaultProject": "@volante/slottrak-ui"
+  "defaultProject": "@volante/slottrak-app-san-manuel"
 }
