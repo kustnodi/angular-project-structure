@@ -5,3 +5,4 @@
 export * from './lib/slottrak-meal-log.service';
 export * from './lib/slottrak-meal-log.component';
 export * from './lib/slottrak-meal-log.module';
+export * from './lib/routing/routing.module';
