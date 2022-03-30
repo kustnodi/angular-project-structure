@@ -2,11 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'slottrak-meal-log-slottrak-meal-log',
-  template: `
-    <p>
-      slottrak-meal-log works!
-    </p>
-  `,
+  templateUrl: './slottrak-meal-log.component.html',
   styles: [
   ]
 })

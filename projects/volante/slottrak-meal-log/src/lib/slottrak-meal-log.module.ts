@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { SlottrakMealLogComponent } from './slottrak-meal-log.component';
 import { GridComponent } from './grid/grid.component';
 import { DetailComponent } from './detail/detail.component';
-import { RoutingModule } from './routing/routing.module';
+import { SlottrakMealLogRoutingModule } from './slottrak-meal-log-routing.module';
 
 @NgModule({
   declarations: [
@@ -11,7 +11,7 @@ import { RoutingModule } from './routing/routing.module';
     DetailComponent
   ],
   imports: [
-    RoutingModule
+    SlottrakMealLogRoutingModule
   ],
   exports: [
     SlottrakMealLogComponent
